@@ -1,6 +1,6 @@
 # dev.finances$
 
-<img src="screenshot.png" alt="Screenshot"/>
+<img src="screenshot.PNG" alt="Screenshot"/>
 
 ## Projeto
 - dev.finance$ é aplicação para fazer financiamentos
