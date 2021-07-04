@@ -12,5 +12,5 @@
 
 - Clonando o Repositório
 ```
-  git clone https://github.com/pedroduarte2005/maratona-discover-rocketseat.git
+  git clone https://github.com/pduartesilva2005/maratona-discover-rocketseat.git
 ```
